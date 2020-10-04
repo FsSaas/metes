@@ -1,0 +1,25 @@
+.table__search-form {
+  padding: 0 0px 16px 0px;
+}
+.table__dropdown-layer {
+  width: 180px;
+}
+.edit-form,
+.table {
+  position: relative;
+  min-height: 160px;
+}
+.spin {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.search-btn {
+  cursor: pointer;
+}
+.page-header {
+}
+.page-header .ant-page-header-content {
+  padding-top: 24px;
+}

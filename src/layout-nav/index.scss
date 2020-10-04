@@ -1,0 +1,32 @@
+.layout__content {
+  padding: 8px;
+}
+.layout__nav-col,
+.layout__user-col,
+.layout__logo-col {
+  color: rgba(255, 255, 255, 0.65);
+  background: #001529;
+  height: 46px;
+}
+.layout__user,
+.layout__logo {
+  text-align: center;
+}
+.layout__logo img {
+  height: 42px;
+}
+.user-wrapper {
+  height: 100%;
+  position: relative;
+  background: #001529;
+  text-align: center;
+  line-height: 40px;
+  width: 100%;
+}
+.user {
+  position: absolute;
+  right: 20px;
+}
+.user a {
+  color: white !important;
+}
